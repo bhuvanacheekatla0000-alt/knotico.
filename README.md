@@ -4,7 +4,7 @@
 
 ---
 
-## ✦ Features
+##  Features
 
 - Custom Crochet Orders
 - Aesthetic Handmade Packaging
@@ -15,7 +15,7 @@
 
 ---
 
-## ✦ Tech Stack
+## Tech Stack
 
 - HTML
 - CSS
@@ -23,7 +23,7 @@
 
 ---
 
-## ✦ Future Improvements
+## Future Improvements
 
 - Online Order System
 - Product Showcase Gallery
