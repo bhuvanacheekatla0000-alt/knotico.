@@ -1,24 +1,42 @@
-# Knotico ♡
+# ✦ knotico
 
-Handmade crochet creations made with love, yarn & creativity.
+> handmade crochet creations made with love & comfort ♡
 
-## Features
+---
 
-- Handmade crochet products
-- Custom orders
-- Aesthetic packaging
-- Gift-ready products
-- Cozy handmade experience
+## ✦ Features
 
-## Tech Stack
+- Custom Crochet Orders
+- Aesthetic Handmade Packaging
+- Gift-ready Products
+- Cozy & Minimal Designs
+- Handmade Thankyou Notes
+- Responsive Website UI
+
+---
+
+## ✦ Tech Stack
 
 - HTML
 - CSS
 - JavaScript
 
-## About
+---
 
-Knotico is a cozy crochet brand focused on creating handmade products crafted with care and creativity.
+## ✦ Future Improvements
 
-Made together ♡
+- Online Order System
+- Product Showcase Gallery
+- Customer Reviews Section
+- Instagram Integration
+- Shopping Cart
+- Payment Gateway
+
+---
+
+## ✦ About
+
+Knotico is a cozy crochet brand focused on creating handmade pieces crafted with yarn, creativity & care.
+
+made together ♡
  
