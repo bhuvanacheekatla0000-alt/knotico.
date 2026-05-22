@@ -34,7 +34,7 @@
 
 ---
 
-## ✦ About
+##  About
 
 Knotico is a cozy crochet brand focused on creating handmade pieces crafted with yarn, creativity & care.
 
